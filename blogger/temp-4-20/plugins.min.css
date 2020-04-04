@@ -5950,7 +5950,7 @@ iframe.uk-cover {
     padding-top: 70px !important;
   }
   .uk-padding-large-bottom {
-    padding-bottom: 70px !important;
+    /*padding-bottom: 70px !important;*/
   }
   .uk-padding-large-left {
     padding-left: 70px !important;
